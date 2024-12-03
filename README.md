@@ -5,10 +5,13 @@
 
 The Hair and Eye Colour shiny app was designed to show the hair and eye colours of students at the University of Delaware, using the HairEyeColor dataset. 
 
-#### How to use:
+#### How to Use App:
 The user of this app is able to filter by hair colour, eye colour and gender of interest using the select options on the left-hand side of the app. 
+
 There are two tabs on the right side of the app, one for the bar graph and one for the data table. The bar graph and data table will be produced based on the user's input, and will show how many students have each hair and eye colour combination. 
+
 In the graph tab, a summary sentence underneath the graph will inform the user of how many total students have the hair colour, eye colour and gender they have selected. 
+
 In the table tab, there is a download button which allows the user to download the raw data table showing the exact number of students who have the characteristics the user selected. 
 
 ##### The 3 Features from Assignment 3
@@ -20,6 +23,7 @@ In the table tab, there is a download button which allows the user to download t
 * Two Tabs in Main Panel
 * Data Table
 * Download button
+
 
 [Here is a link to the running shiny app](https://lsimonson.shinyapps.io/AssigmentB4/)
 
