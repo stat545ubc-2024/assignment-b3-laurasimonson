@@ -1,4 +1,4 @@
-## Assignment B4
+## Assignment B4 Part C
 #### Hair and Eye Colour of Students 
 
 ###### By Laura Simonson 60858685
@@ -25,7 +25,8 @@ In the table tab, there is a download button which allows the user to download t
 * Download button
 
 
-[Here is a link to the running shiny app](https://lsimonson.shinyapps.io/AssigmentB4/)
+[Here is a link to the original shiny app from Assignment B3](https://lsimonson.shinyapps.io/assigmentb3/)
+[Here is a link to the new updated shiny app from Assignment B4 Part C](https://lsimonson.shinyapps.io/AssigmentB4/)
 
 The HairEyeColour Dataset used in this app was collected by Snee in 1974 and Updated by Friendly in 1992. 
 
